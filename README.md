@@ -5,6 +5,14 @@ An advanced, logistically planned vocabulary training application based on the s
 > **Status: Active Development / Major Refactoring Phase (WIP)**  
 > *Note: The core application logic and UI are currently implemented in German. The project is undergoing a structural overhaul to fix broken features and optimize the architecture.*
 
+## 🧠 Development Methodology & Learning Focus
+
+This repository acts as an educational project to understand complex state behaviors and data routing:
+
+* **The Process:** I mapped out the system's operational logic (Leitner algorithms, blitz mode, structure transitions). I then used AI tools to generate the underlying code templates, allowing me to focus heavily on debugging, edge-case testing, and code reading.
+* **Educational Comments:** The extensive comments within the code are intentionally placed to document my learning curve and ensure I can completely dissect how the data models behave.
+* **My Role:** Logical Framework Design, Integration Testing, and System Review.
+
 ## 🚀 Key Features (Current Implementation)
 
 * **Leitner 6-Box System:** Implements a spaced-repetition framework with 6 sequential boxes to optimize vocabulary retention.
